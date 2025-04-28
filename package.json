@@ -1,0 +1,26 @@
+{
+  "name": "linkedin-data-list",
+  "version": "0.0.0",
+  "scripts": {
+    "format": "prettier --write --ignore-unknown **/*",
+    "prepare": "npx simple-git-hooks",
+    "start": "node ./src/index.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "lint-staged": {
+    "*": [
+      "prettier --write --ignore-unknown"
+    ]
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
+  },
+  "dependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "devDependencies": {
+    "lint-staged": "^15.5.1",
+    "prettier": "^3.5.3",
+    "simple-git-hooks": "^2.13.0"
+  }
+}
