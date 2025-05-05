@@ -1,6 +1,14 @@
 # LinkedIn data list
 
-This repo contains a small Node.js script that consolidates loosely structured Excel data from LinkedIn. I created it as part of my final project for the class [DCAS 5331 - Social Media Analytics](https://journalism.unt.edu/academics/graduate/master-science-digital-communication-analytics.html). The following steps cover how to use the repo, as well as retrieving your initial data from LinkedIn.
+This repo contains a small Node.js script that consolidates loosely structured Excel data from LinkedIn. I created it as part of my final assignment for the class [DCAS 5331 - Social Media Analytics](https://journalism.unt.edu/academics/graduate/master-science-digital-communication-analytics.html). The following steps cover how to use the repo, as well as retrieving your initial data from LinkedIn.
+
+These were the project deliverables.
+
+- Final paper: <br /> [Nathan-Smith-DCAS-5331-final-paper.pdf](/assets/pdf/Nathan-Smith-DCAS-5331-final-paper.pdf)
+
+- Final slide deck: <br /> [Nathan-Smith-DCAS-5331-final-deck.pdf](/assets/pdf/Nathan-Smith-DCAS-5331-final-deck.pdf)
+
+- Narrated slide deck video: <br /> https://youtu.be/G111fLzhE_w
 
 ---
 
